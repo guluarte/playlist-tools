@@ -1,0 +1,1 @@
+copy /b *.mp3 combined.mp3
